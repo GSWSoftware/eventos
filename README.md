@@ -9,10 +9,10 @@ Calendário de eventos by GSW
 
 Data          | Tema          | Palestrante   | Slides		| Inscreva-se Aqui 
 ------------- | ------------- | ------------- |-------------|-------------
-27/01/2017    | Code Smell: Mantendo seu Código livre de maus cheiros          | [Pedro HOS](github.com/pedro-hos)      | [link](#)| [inscrição](#)
+27/01/2017    | Code Smell: Mantendo seu Código livre de maus cheiros          | [Pedro HOS](http://github.com/pedro-hos)      | [link](#)| [inscrição](#)
 24/02/2017    | Realizando Testes com JMeter |   Camila Abreu    | [link](#) |
 31/03/2017    | DDD – Introdução a Domain Driven Design         |     Gradson Mesquita  | [link](#) |
-28/04/2017    | Hackeando a vida com Nodejs e ES6          |   [Paulo Luan](github.com/pauloluan)    | [link](#) |
+28/04/2017    | Hackeando a vida com Nodejs e ES6          |   [Paulo Luan](http://github.com/pauloluan)    | [link](#) |
 26/05/2017    |           |       | [link](#) |
 30/06/2017    |           |       | [link](#) |
 28/07/2017    |           |       | [link](#) |
