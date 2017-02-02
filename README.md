@@ -14,7 +14,7 @@ Data          | Tema          | Palestrante   | Slides		| Inscreva-se Aqui
 31/03/2017    | DDD – Introdução a Domain Driven Design         |     Gradson Mesquita  | [link](#) |
 28/04/2017    | Hackeando a vida com Nodejs e ES6          |   [Paulo Luan](http://github.com/pauloluan)    | [link](#) |
 26/05/2017    |           |       | [link](#) |
-30/06/2017    | Classificando as Leis de São José dos Campos por meio de Machine Learn          |   [Pedro HOS](http://github.com/pedro-hos)    | [link](#) |
+30/06/2017    | Classificando as Leis de São José dos Campos por meio de Machine Learning          |   [Pedro HOS](http://github.com/pedro-hos)    | [link](#) |
 28/07/2017    |           |       | [link](#) |
 25/08/2017    |           |       | [link](#) |
 29/09/2017    |           |       | [link](#) |
