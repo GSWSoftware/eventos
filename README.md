@@ -13,7 +13,7 @@ Data          | Tema          | Palestrante   | Slides		| Inscreva-se Aqui
 22/02/2017    | Realizando Testes com JMeter |   Camila Abreu    | [link](#) |
 29/03/2017    | DDD – Introdução a Domain Driven Design         |     Gradson Mesquita  | [link](https://prezi.com/ttda6-x14rwi/ddd/) |
 26/04/2017    | Nodejs(ES6) do zero ao deploy          |   [Paulo Luan](http://github.com/pauloluan)    | [link](#) |
-31/05/2017    | Android Avançado          |   [Carioca](https://github.com/brsanthiago)    | [link](#) |
+31/05/2017    | Android Avançado          |   [Paulo Luan](http://github.com/pauloluan)    | [link](#) |
 28/06/2017    | Introdução a Desenvolvimento Mobile com Ionic 2 | [José Maia](http://github.com/josenicomaia) | [link](#) |
 26/07/2017    | Introdução ao MongoDB | [Eng. Carlos Eduardo Ferreiro Correa](http://github.com/kadusjc)|  [link](#) |
 23/08/2017    | Introdução ao Docker | [Eng. Roger Cruz Marques](http://github.com/rogermqs)    | [link](#) |
