@@ -16,7 +16,7 @@ Data          | Tema          | Palestrante   | Slides		| Inscreva-se Aqui
 31/05/2017    | Android Avançado          |   [Paulo Luan](http://github.com/pauloluan)    | [link](#) |
 28/06/2017    | Introdução a Desenvolvimento Mobile com Ionic 2 | [José Maia](http://github.com/josenicomaia) | [link](#) |
 26/07/2017    | Introdução ao MongoDB | [Eng. Carlos Eduardo Ferreiro Correa](http://github.com/kadusjc)|  [link](#) |
-23/08/2017    | Introdução ao Docker | [Eng. Roger Cruz Marques](http://github.com/rogermqs)    | [link](#) |
+30/08/2017    | Introdução ao Docker | [Eng. Roger Cruz Marques](http://github.com/rogermqs)    | [link](#) |
 27/09/2017    |           |       | [link](#) |
 25/10/2017    |           |       | [link](#) |
 22/11/2017    |           |       | [link](#) |
